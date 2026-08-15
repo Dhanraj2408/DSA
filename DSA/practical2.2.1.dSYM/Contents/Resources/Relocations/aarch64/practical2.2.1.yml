@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dhanrajsolanki/Documents/DSA/practical2.2.1'
+relocations:     []
+...
